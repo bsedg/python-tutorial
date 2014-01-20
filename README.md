@@ -16,5 +16,7 @@ Create a Cloud9 IDE account using your GitHub account.
 
 ###Get Data
 
+This [Get Data tutorial](./getdata/) will introduce you to python by example.  This introduction will not take the same basic programming approach building up from boring step by step details but rather do something interesting and learn along the way.
+
 1. [Weather Data Retrieval App](./getdata/weather-app)
 2. [Twitter Data Retrieval App](./getdata/twitter-app)
