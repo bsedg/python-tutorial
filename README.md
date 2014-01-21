@@ -1,7 +1,7 @@
 #python-tutorial
 
 This tutorial is aimed to get started with github and python.  
-Development will also be centered around a flexible cloud IDE, [Cloud9 IDE](c9.io).
+Development will also be centered around a flexible cloud IDE, [Cloud9 IDE](http://c9.io).
 
 ##Development Environment Setup
 
@@ -9,7 +9,7 @@ Development will also be centered around a flexible cloud IDE, [Cloud9 IDE](c9.i
 Create your [GitHub](https://github.com/) account (if not already), and sign into it.
 
 ###c9.io
-Create a [Cloud9 IDE](c9.io) account using your GitHub account.
+Create a [Cloud9 IDE](http://c9.io) account using your GitHub account.
 
 ##Tutorial, Python Coding
 
